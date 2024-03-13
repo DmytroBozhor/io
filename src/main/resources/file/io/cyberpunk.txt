@@ -1,0 +1,80 @@
+Cyberpunk 2077
+
+Cyberpunk 2077 is a 2020 action role-playing video game developed by CD Projekt Red and published by CD Projekt,
+and based on Mike Pondsmith's Cyberpunk tabletop game series. The plot is set in the fictional metropolis of Night City,
+California, within the dystopian Cyberpunk universe. The player assumes the role of V (voiced by Gavin Drea/Cherami Leigh),
+a mercenary who accidentally gets imbued with a cybernetic "bio-chip" containing an engram of legendary rockstar and
+terrorist Johnny Silverhand (voiced by Keanu Reeves). As Johnny's consciousness begins overwriting V's own, the two must
+work together to separate and save V's life.
+
+The game's development began following the release of The Witcher 3: Wild Hunt – Blood and Wine (2016).
+The game was developed by a team of around 500 people using the REDengine 4 game engine. CD Projekt launched a new
+division in Wrocław, Poland, and partnered with Digital Scapes, Nvidia, QLOC, and Jali Research to aid the production.
+Cyberpunk creator Mike Pondsmith was a consultant, and actor Keanu Reeves had a starring role. The original score was
+led by Marcin Przybyłowicz, and featured the contributions of several licensed artists. After years of anticipation,
+CD Projekt released Cyberpunk 2077 for PlayStation 4, Stadia, Windows, and Xbox One on 10 December 2020, followed by
+PlayStation 5 and Xbox Series X/S on 15 February 2022.
+
+Cyberpunk 2077 received praise from critics for its narrative, setting, and graphics. However, some of its gameplay
+elements received mixed responses while its themes and representation of transgender characters received some criticism.
+It was also widely criticized for bugs, particularly in the console versions which suffered from performance problems.
+Sony removed it from the PlayStation Store from December 2020 to June 2021 while CD Projekt rectified some of the problems.
+CD Projekt became subject to investigations and class-action lawsuits for their perceived attempts at downplaying the
+severity of the technical problems before release; these were ultimately cleared with a settlement of US$1.85 million.
+By October 2023, the game had sold over 25 million units. An expansion, Phantom Liberty, released for PlayStation 5,
+Windows, and Xbox Series X/S on 26 September 2023, which sold 5 million units in 2023.[1] Its total cost to develop and
+market (including updates and DLC) is reportedly over $436 million, making it one of the most expensive video games
+to develop. A sequel, codenamed "Project Orion", was announced in October 2022.
+
+Gameplay screenshot of the player-character completing a mission
+Cyberpunk 2077 is an action role-playing game[2] played from a first-person perspective as V,[3] a mercenary whose
+voice,[4] face, hairstyle, body type and modifications, background, and clothing are customisable. There are also five
+attributes (Body, Intelligence, Reflexes, Technical, and Cool) that can be customized to suit the player's gameplay style.
+
+The gameplay is flexible: the three primary play styles are Netrunner (hacking), Techie (machinery), and Solo (combat).
+V has a number of maneuvers to reposition in combat, including sprinting, taking cover, double-jumping, and sliding;[5][6]
+many of these abilities can be unlocked or upgraded through cyberware implants installed by a "ripperdoc".[7]
+Weapon use increases accuracy and reloading speed, which are reflected in character animations.[8] Equipment, such as
+weapons and armor, is governed by a coloured tier system[9] and is split into melee and ranged options.
+Melee strikes can be dealt with close-combat weapons.[10][11] There are three types of ranged weapons, all of which can
+be customised and modified—Power (with ricocheting bullets), Tech (which penetrates walls and enemies), and Smart (with
+homing bullets).[12][13] The game has four types of damage that can be inflicted and resisted—Physical, Thermal,
+Electric, and Chemical.[14][15][16] The game can be completed without killing anyone,[17] with non-lethal options for
+weapons and cyberware.[18]
+
+The open world metropolis of Night City consists of six regions: the corporate City Centre, immigrant-inhabited Watson,
+luxurious Westbrook, suburban Heywood, gang-infested Pacifica, and industrial Santo Domingo. Its surrounding area, the
+Badlands, can also be explored. V navigates these locations on foot (in first-person view) and in vehicles (in either a
+third- or first-person view).[7] V owns an apartment and a garage, and can purchase additional apartments throughout the
+city.[10] There is a full day-night cycle and dynamic weather, which affects the way non-player characters (NPCs)
+behave.[12][19] Depending on the location, law enforcement may be alerted if V commits a crime.[20] Pedestrians are
+vulnerable to vehicular collisions.[13] [21] Radio stations are available to listen to.[22] [23] Night City features
+many non-English-speaking characters, whose languages can be translated with special implants.[24] V also periodically
+uses a "Braindance," a device that allows one to undergo other people's experiences.[25][26]
+
+Edgerunners release
+See also: Cyberpunk: Edgerunners
+Despite the rampant technical issues that were prevalent during its initial release that affected the game's sales,
+Cyberpunk 2077 saw an increase in the number of units sold during the year 2022 of up to 18%, with 94% of the sales being
+digital.[228][229] This increase was partially attributed to the release of the Netflix anime series Cyberpunk: Edgerunners,
+which garnered positive reviews from both critics and fans,[230][231] and the concurrent release of a game update
+which added material from the series in the form of multiple items. CD Projekt Red recognized the success of Edgerunners
+having driven sales of Cyberpunk 2077 by stating that "a significant increase in the amount of the Group’s Sales in the
+third quarter of 2022 in relation to the reference period was mainly due to a good reception of the Cyberpunk Edgerunner
+update 1.6 which preceded the release on Netflix of the Cyberpunk: Edgerunners anime series."[232] The series would again
+be referenced in the Cyberpunk 2.0 update that came alongside the Phantom Liberty downloadable content.[233]
+
+Sales
+Cyberpunk 2077 received eight million pre-orders on all platforms, of which 74% were digital,[234] and it received more
+pre-orders than The Witcher 3: Wild Hunt;[235] one third of PC sales were through GOG.com.[236] It was a best-seller on
+Steam in China.[237] CD Projekt Red has stated that digital preorders for the title alone recouped the game's production
+cost as well as the game's 2020 marketing cost.[238] According to a CD Projekt investors call, sales saw a drastic decline
+four days after release owing to the technical issues present.[239] After the launch, analyst estimations for sales over 12
+months fell from 30 million to 25.6 million.[240]
+
+Within twelve hours after its release, the game had over one million concurrent players on Steam.[241] In Japan,
+the PlayStation 4 version of Cyberpunk 2077 sold an estimated 104,600 physical units during its debut week, making it
+the second best-selling retail game of the week in the country.[242] The game passed 13 million units sold in December
+2020.[243][244] It had the biggest digital game launch of all time, selling 10.2 million digital units[245] and
+grossed $609 million in digital sales by 31 December 2020.[246] By September 2022, the game had sold over 20 million
+units.[247] As of October 2023, it has sold over 25 million units.[248]

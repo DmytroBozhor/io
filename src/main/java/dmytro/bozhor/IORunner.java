@@ -3,13 +3,13 @@ package dmytro.bozhor;
 import lombok.SneakyThrows;
 
 import java.io.File;
-import java.io.IOException;
+import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.Optional;
 
 public class IORunner {
 
-    public static final String RESOURCES = "src/main/resources";
+    public static final String RESOURCES = Path.of("src", "main", "resources").toString();
 
     public static void main(String[] args) {
 
