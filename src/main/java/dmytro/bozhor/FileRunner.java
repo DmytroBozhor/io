@@ -2,18 +2,17 @@ package dmytro.bozhor;
 
 import lombok.SneakyThrows;
 
-import java.io.File;
 import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.Optional;
 
-public class IORunner {
+public class FileRunner {
 
     public static final String RESOURCES = Path.of("src", "main", "resources").toString();
 
     public static void main(String[] args) {
 
-        var resourcesDirectory = new File(RESOURCES);
+        var resourcesDirectory = new java.io.File(RESOURCES);
         System.out.println(resourcesDirectory.isDirectory());
 
         if (!resourcesDirectory.exists()) {
@@ -29,8 +28,8 @@ public class IORunner {
 
     @SneakyThrows
     private static void initFiles() {
-        new File(RESOURCES + "/first.txt").createNewFile();
-        new File(RESOURCES + "/second.txt").createNewFile();
-        new File(RESOURCES + "/third.txt").createNewFile();
+        new java.io.File(RESOURCES + "/first.txt").createNewFile();
+        new java.io.File(RESOURCES + "/second.txt").createNewFile();
+        new java.io.File(RESOURCES + "/third.txt").createNewFile();
     }
 }

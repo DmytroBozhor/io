@@ -17,6 +17,4 @@ public class FileIORunner {
             System.out.println(new String(bytes));
         }
     }
-
-
 }
