@@ -8,7 +8,7 @@ import java.nio.file.Path;
 public class FileIORunner {
     @SneakyThrows
     public static void main(String[] args) {
-        var resources = Path.of("src", "main", "resources", "file", "io", "cyberpunk.txt").toFile();
+        var resources = IOUtil.CYBERPUNK_TXT.toFile();
 
         try (var fileInputStream = new FileInputStream(resources)) {
             System.out.println(fileInputStream.available());

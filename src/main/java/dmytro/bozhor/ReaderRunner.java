@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 public class ReaderRunner {
     @SneakyThrows
     public static void main(String[] args) {
-        var file = Path.of("src", "main", "resources", "file", "io", "cyberpunk.txt").toFile();
+        var file = IOUtil.CYBERPUNK_TXT.toFile();
 
         inputStreamReaderTest(file);
 
@@ -20,7 +20,7 @@ public class ReaderRunner {
 
         separateLine();
 
-        
+
     }
 
     private static void bufferedReaderTest(File file) throws IOException {
